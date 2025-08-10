@@ -46,9 +46,9 @@ AirPure Innovations is a startup addressing India's air quality crisis, with 14 
 #### **Health Impact Correlation**
 ```
 👶 VULNERABLE GROUPS IDENTIFIED:
-• Children 0-5 years: 9.7 hospitalizations per 100k (highest risk)
+• Children 0-5 years: 168 hospitalizations per 100k (highest risk)
 • PM2.5 levels: 6-11x WHO safety limits in target cities
-• Health correlation: Every 10 μg/m³ PM2.5 = +0.8 pediatric admissions
+• Health correlation: Every 10 μg/m³ PM2.5 = +13.86 pediatric admissions
 ```
 
 #### **Demand Trigger Analysis**
