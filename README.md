@@ -56,7 +56,7 @@ AirPure Innovations is a startup addressing India's air quality crisis, with 14 
 📈 CONSUMER BEHAVIOR PATTERNS:
 • Pollution emergencies → 200-300% search spikes
 • Winter months (Nov-Jan): Peak demand periods
-• Delhi: 74 daily searches vs 25 in other metros
+• Delhi: 100 daily searches vs 25 in other metros
 ```
 
 ## 📊 Key Insights & Findings
@@ -83,7 +83,7 @@ AirPure Innovations is a startup addressing India's air quality crisis, with 14 
 - India-specific filtration for PM10/PM2.5
 
 **Optimal Pricing Strategy**:
-- Sweet spot: ₹12,000-18,000
+- Sweet spot: ₹12,000-₹18,000
 - Target market: 63% gap in mid-premium segment
 
 ### **📅 Seasonal Demand Patterns**
@@ -107,8 +107,7 @@ AirPure Innovations is a startup addressing India's air quality crisis, with 14 
 ├── 🫁 Respiratory Impact - Age-group vulnerability analysis
 ├── 🏢 Competitor Analysis - Market gap identification
 ├── 📊 Marketing View 1 - Search trends & behavior
-├── 📈 Marketing View 2 - Economic impact & pricing
-└── 🎯 Strategic Recommendations - Actionable insights
+└── 📈 Marketing View 2 - Economic impact & pricing
 ```
 
 ### **Data Sources Integration**
@@ -154,8 +153,8 @@ AirPure-Market-Analysis/
 │
 ├── 📈 data/
 │   ├── raw/                           # Original data sources
-│   ├── processed/                     # Cleaned datasets
-│   └── analysis/                      # Python analysis scripts
+│   └── processed/                     # Cleaned datasets
+│   
 │
 ├── 📝 documentation/
 │   ├── methodology.md                 # Detailed analysis approach
@@ -180,8 +179,8 @@ AirPure-Market-Analysis/
 ### **Setup Instructions**
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/your-username/airpure-market-analysis.git
-   cd airpure-market-analysis
+   git clone https://github.com/HiteshGupta23/Product-Market-Fit-Analysis.git
+   cd Product-Market-Fit-Analysis
    ```
 
 2. **Open Dashboard**:
@@ -235,8 +234,8 @@ This project was completed as part of the **CodeBasics Resume Project Challenge 
 ## 📞 Contact & Feedback
 
 **Hitesh Gupta** - *Data Analyst & Project Creator*
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email**: your.email@domain.com
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/the-hitesh)
+- **Email**: hitesh.hg.gupta@gmail.com
 - **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
 
 ---
