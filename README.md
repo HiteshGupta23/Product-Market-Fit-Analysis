@@ -234,9 +234,9 @@ This project was completed as part of the **CodeBasics Resume Project Challenge 
 ## 📞 Contact & Feedback
 
 **Hitesh Gupta** - *Data Analyst & Project Creator*
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/the-hitesh)
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/the-hitesh)
 - **Email**: hitesh.hg.gupta@gmail.com
-- **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
+- **Portfolio**: [Your Portfolio Website](https://mavenshowcase.com/profile/789103f0-10b1-708c-2744-96c521e9c03f)
 
 ---
 
