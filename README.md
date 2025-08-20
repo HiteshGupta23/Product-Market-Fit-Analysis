@@ -139,7 +139,7 @@ AirPure Innovations is a startup addressing India's air quality crisis, with 14 
 
 - **📹 [Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=021b7379-014b-4b6a-8a21-4ae7fdd74468&autoAuth=true&ctid=63086458-bcab-46d4-a771-aea85e34614c)** - Interactive Power BI Report
 - **🎬 [Presentation Video](https://youtu.be/np2iS2P-n3U?si=Q7rcax4MjB4cEmet)** - Complete analysis walkthrough
-- **📊 [Raw Data](./data/)** - Source datasets and calculations
+- **📊 [View on Portfolio Website](https://mavenshowcase.com/project/43303)** - View Project on Portfolio Website
 
 ## 📁 Repository Structure
 
